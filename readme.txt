@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+This is Godning's Internet program test.
+Here are two codes about socket using in Linux.
